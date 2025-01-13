@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I like beatbox**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: patryk-tecza@wp.pl </h3>
 <p align="left">
 </p>
 
