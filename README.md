@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **VBA, Alteryx, Blue Prism**
 
-- 🌱 I’m currently learning **AWS, Docker, Terraform, CI/CD, Kubernetes**
+- 🌱 I’m currently learning **AWS, Docker, Terraform**
 
 - 👯 I’m looking to collaborate on **Simple Cloud Projects**
 
