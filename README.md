@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patryktecza" alt="patryktecza" /></a> </p>
 
-- 🔭 I’m currently working with VBA and Alteryx, and learning RPA tools like Blue Prism and UI Path
+- 🔭 I’m currently working with VBA and Alteryx 
 
-- 🌱 I’m currently learning AWS, Docker, Terraform
+- 🌱 I’m currently learning RPA tools like Blue Prism and UI Path
 
 - 🤖 I’m interested in collaborating on beginner RPA projects or automation use cases
 
-- 🤝 I’m looking for help with RPA best practices, DevOps, and Software Engineering
+- 🤝 I’m looking for help with RPA best practices
 
-- 💬 Ask me about Automation, data workflows, or getting started with RPA tools
+- 💬 Ask me about Automation, data workflows, or getting started with RPA tools.
 
 - 📫 How to reach me **patryk-tecza@wp.pl**
 
