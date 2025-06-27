@@ -22,22 +22,22 @@
 <h3 align="left">RPA Tools and Technologies:</h3>
 <p align="left">
   <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
-    <img src="https://companieslogo.com/img/orig/UIPATH-0d0e6dba.png" alt="UiPath" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/mukulkhattar/img-repo/main/logos/uipath.png" alt="UiPath" width="40" height="40"/>
   </a>
   <a href="https://www.blueprism.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/B/blue-prism-logo-660AE051C2-seeklogo.com.png" alt="Blue Prism" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/mukulkhattar/img-repo/main/logos/blueprism.png" alt="Blue Prism" width="40" height="40"/>
   </a>
   <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/M/microsoft-power-automate-logo-2F4F6FC1D9-seeklogo.com.png" alt="Power Automate" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/mukulkhattar/img-repo/main/logos/powerautomate.png" alt="Power Automate" width="40" height="40"/>
   </a>
   <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/alteryx-1.svg" alt="Alteryx" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/mukulkhattar/img-repo/main/logos/alteryx.png" alt="Alteryx" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel VBA" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/mukulkhattar/img-repo/main/logos/excel.png" alt="Excel VBA" width="40" height="40"/>
   </a>
 </p>
 
