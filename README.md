@@ -27,9 +27,6 @@
   <a href="https://www.blueprism.com/" target="_blank" rel="noreferrer">
     <img src="assets/icons/blueprism.png" alt="Blue Prism" width="40" height="40"/>
   </a>
-  <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="assets/icons/powerautomate.png" alt="Power Automate" width="40" height="40"/>
-  </a>
   <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
     <img src="assets/icons/alteryx.png" alt="Alteryx" width="40" height="40"/>
   </a>
