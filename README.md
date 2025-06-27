@@ -19,29 +19,25 @@
 
 - ⚡ Fun fact **I like beatbox**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">RPA Tools and Technologies:</h3>
 <p align="left">
   <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/UiPath_Logo.svg" alt="UiPath" width="80" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uipath/uipath-original.svg" alt="UiPath" width="40" height="40"/>
   </a>
   <a href="https://www.blueprism.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Blue_Prism_logo.svg" alt="Blue Prism" width="80" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blueprism/blueprism-original.svg" alt="Blue Prism" width="40" height="40"/>
   </a>
   <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Microsoft_Power_Automate_2020_logo.svg" alt="Power Automate" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/M/microsoft-power-automate-logo-2F4F6FC1D9-seeklogo.com.png" alt="Power Automate" width="40" height="40"/>
   </a>
   <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Alteryx_logo.svg" alt="Alteryx" width="80" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/alteryx-1.svg" alt="Alteryx" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel VBA" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel VBA" width="40" height="40"/>
   </a>
 </p>
 
