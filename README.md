@@ -22,10 +22,10 @@
 <h3 align="left">RPA Tools and Technologies:</h3>
 <p align="left">
   <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uipath/uipath-original.svg" alt="UiPath" width="40" height="40"/>
+    <img src="https://companieslogo.com/img/orig/UIPATH-0d0e6dba.png" alt="UiPath" width="40" height="40"/>
   </a>
   <a href="https://www.blueprism.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blueprism/blueprism-original.svg" alt="Blue Prism" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/B/blue-prism-logo-660AE051C2-seeklogo.com.png" alt="Blue Prism" width="40" height="40"/>
   </a>
   <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/M/microsoft-power-automate-logo-2F4F6FC1D9-seeklogo.com.png" alt="Power Automate" width="40" height="40"/>
