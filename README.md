@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patryktecza" alt="patryktecza" /></a> </p>
 
-- 🔭 I’m currently working on **VBA, Alteryx, Blue Prism**
+- 🔭 I’m currently working with VBA and Alteryx, and learning RPA tools like Blue Prism and UI Path
 
-- 🌱 I’m currently learning **AWS, Docker, Terraform**
+- 🌱 I’m currently learning AWS, Docker, Terraform
 
-- 👯 I’m looking to collaborate on **Simple Cloud Projects**
+- 🤖 I’m interested in collaborating on beginner RPA projects or automation use cases
 
-- 🤝 I’m looking for help with **DevOps, Software Engineering**
+- 🤝 I’m looking for help with RPA best practices, DevOps, and Software Engineering
 
-- 💬 Ask me about **RPA Tools**
+- 💬 Ask me about Automation, data workflows, or getting started with RPA tools
 
 - 📫 How to reach me **patryk-tecza@wp.pl**
 
@@ -23,8 +23,27 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">RPA Tools and Technologies:</h3>
+<p align="left">
+  <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/UiPath_Logo.svg" alt="UiPath" width="80" height="40"/>
+  </a>
+  <a href="https://www.blueprism.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Blue_Prism_logo.svg" alt="Blue Prism" width="80" height="40"/>
+  </a>
+  <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Microsoft_Power_Automate_2020_logo.svg" alt="Power Automate" width="40" height="40"/>
+  </a>
+  <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Alteryx_logo.svg" alt="Alteryx" width="80" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel VBA" width="40" height="40"/>
+  </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patryktecza&show_icons=true&locale=en&layout=compact" alt="patryktecza" /></p>
 
