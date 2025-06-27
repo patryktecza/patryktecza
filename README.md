@@ -22,22 +22,22 @@
 <h3 align="left">RPA Tools and Technologies:</h3>
 <p align="left">
   <a href="https://www.uipath.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mukulkhattar/img-repo/main/logos/uipath.png" alt="UiPath" width="40" height="40"/>
+    <img src="assets/icons/uipath.png" alt="UiPath" width="40" height="40"/>
   </a>
   <a href="https://www.blueprism.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mukulkhattar/img-repo/main/logos/blueprism.png" alt="Blue Prism" width="40" height="40"/>
+    <img src="assets/icons/blueprism.png" alt="Blue Prism" width="40" height="40"/>
   </a>
   <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mukulkhattar/img-repo/main/logos/powerautomate.png" alt="Power Automate" width="40" height="40"/>
+    <img src="assets/icons/powerautomate.png" alt="Power Automate" width="40" height="40"/>
   </a>
   <a href="https://www.alteryx.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mukulkhattar/img-repo/main/logos/alteryx.png" alt="Alteryx" width="40" height="40"/>
+    <img src="assets/icons/alteryx.png" alt="Alteryx" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="assets/icons/python.png" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mukulkhattar/img-repo/main/logos/excel.png" alt="Excel VBA" width="40" height="40"/>
+    <img src="assets/icons/excel.png" alt="Excel VBA" width="40" height="40"/>
   </a>
 </p>
 
