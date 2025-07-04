@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patryktecza&label=Profile%20views&color=0e75b6&style=flat" alt="patryktecza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patryktecza" alt="patryktecza" /></a> </p>
-
 - 🔭 I’m currently working with VBA and Alteryx 
 
 - 🌱 I’m currently learning RPA tools like Blue Prism and UI Path
