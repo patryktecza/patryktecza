@@ -23,24 +23,4 @@
 
 <h3 align="left">🛠️ RPA Tools and Technologies:</h3>
 
-<p align="left">
-  <a href="https://www.uipath.com/" target="_blank">
-    <img src="assets/icons/uipath.png" alt="UiPath" width="48" height="48" style="vertical-align:middle; margin-right:15px;">
-  </a>
-  <a href="https://www.blueprism.com/" target="_blank">
-    <img src="assets/icons/blueprism.png" alt="Blue Prism" width="48" height="48" style="vertical-align:middle; margin-right:15px;">
-  </a>
-  <a href="https://www.alteryx.com/" target="_blank">
-    <img src="assets/icons/alteryx.png" alt="Alteryx" width="48" height="48" style="vertical-align:middle; margin-right:15px;">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="assets/icons/python.png" alt="Python" width="48" height="48" style="vertical-align:middle; margin-right:15px;">
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img src="assets/icons/excel.png" alt="Excel VBA" width="48" height="48" style="vertical-align:middle; margin-right:15px;">
-  </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patryktecza&show_icons=true&locale=en&layout=compact" alt="patryktecza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patryktecza&show_icons=true&locale=en" alt="patryktecza" /></p>
+BLUE PRISM, UIPATH, PYTHON, ALTERYX, VBA, POWER BI, SQL, SAP
